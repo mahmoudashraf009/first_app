@@ -4,7 +4,7 @@ This is my first Flutter screen project created
 
 ## 📱 App Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot%202025-12-12%20004237.png)
 
 
 # first_app
